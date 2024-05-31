@@ -8,7 +8,7 @@ My current project is at ArcelorMittal developing a WPF application with a lot o
 Previously I worked as a full stack web developer for a web agency in Ghent where I helped developing websites mainly for the tourism sector. 
 <br/>
 ### 🤝 Connect with me:
-🔗 <a href="https://www.linkedin.com/in/arne-lecoutre-90543411b/">Linkedin </a>
+🔗 <a href="https://www.linkedin.com/in/arne-lecoutre-90543411b/" target="_blank">Linkedin </a>
 <br/>
 🔗 <a href="mailto:arnelecoutre@gmail.com">Send an email </a>
 ## 💻 Technical Skills
