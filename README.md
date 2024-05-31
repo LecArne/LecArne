@@ -5,7 +5,7 @@ I'm a full stack .NET developer, currently working as a .NET consultant at Elmos
 My current project is at ArcelorMittal developing a WPF application with a lot of backend services.
 <br/>
 <br/>
-Previously I worked as a full stack web developer for a web agency in Ghent where I helped develop websites mainly for the tourism sector. 
+Previously I worked as a full stack web developer for a web agency in Ghent where I helped developing websites mainly for the tourism sector. 
 <br/>
 ### 🤝 Connect with me:
 🔗 <a href="https://www.linkedin.com/in/arne-lecoutre-90543411b/">Linkedin </a>
