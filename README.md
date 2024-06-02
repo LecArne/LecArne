@@ -2,7 +2,7 @@
 
 I'm a full stack .NET developer, currently working as a .NET consultant at Elmos Group.
 <br/>
-My current project is at ArcelorMittal developing a WPF application with a lot of backend services.
+My current project is at ArcelorMittal, developing a WPF application with a lot of backend services.
 <br/>
 <br/>
 Previously I worked as a full stack web developer for a web agency in Ghent where I helped developing websites mainly for the tourism sector. 
