@@ -1,12 +1,7 @@
 ## Hi there, I'm Arne Lecoutre. 👋
 
-I'm a full stack .NET developer, currently working as a .NET consultant at Elmos Group.
-<br/>
-My current project is at ArcelorMittal, developing a WPF application with a lot of backend services.
-<br/>
-<br/>
-Previously I worked as a full stack web developer for a web agency in Ghent where I helped developing websites mainly for the tourism sector. 
-<br/>
+I'm a full stack .NET developer, currently working as a .NET developer at Renson.
+
 ### 🤝 Connect with me:
 🔗 <a href="https://www.linkedin.com/in/arne-lecoutre-90543411b/" target="_blank">Linkedin </a>
 <br/>
